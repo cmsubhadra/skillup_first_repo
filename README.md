@@ -1,3 +1,3 @@
 # skillup_first_repo
 This is my first git repo
-Author -skillup-simplilearn
+<br>Author -skillup-simplilearn</br>
